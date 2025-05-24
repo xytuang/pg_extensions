@@ -1,0 +1,8 @@
+# basic.control
+comment = 'A basic extension'
+
+# Specifies the default version of the extension
+default_version = '1.0.0'
+
+# Indicates whether the extension is relocatable, allowing it to be moved to a different location
+relocatable = true
