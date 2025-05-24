@@ -1,0 +1,12 @@
+CREATE EXTENSION basic;
+SELECT * FROM BASIC_TABLE;
+ id | name 
+----+------
+(0 rows)
+
+SELECT add(2,3);
+ add 
+-----
+   5
+(1 row)
+

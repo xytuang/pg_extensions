@@ -1,5 +1,6 @@
 EXTENSION = basic
 DATA = basic--1.0.0.sql
+REGRESS = basic-regress
 
 PG_CONFIG = pg_config
 PGXS := $(shell $(PG_CONFIG) --pgxs)
