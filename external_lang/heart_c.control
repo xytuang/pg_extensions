@@ -1,0 +1,5 @@
+# idk why this comment is necessary
+comment = 'i heart c!'
+default_version = '1.0.0'
+relocatable = true
+module_pathname = '$libdir/heart_c'
