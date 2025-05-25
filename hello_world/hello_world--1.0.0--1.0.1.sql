@@ -1,0 +1,3 @@
+CREATE FUNCTION
+hello_args(text[]) RETURNS text AS 'MODULE_PATHNAME', 'hello_args'
+LANGUAGE C STRICT;
