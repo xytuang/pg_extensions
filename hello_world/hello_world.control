@@ -1,0 +1,5 @@
+# This is an extension that simply returns hello_world
+comment = 'Very simple: hello world'
+default_version = '1.0.0'
+relocatable = true
+module_pathname = '$libdir/hello_world'
